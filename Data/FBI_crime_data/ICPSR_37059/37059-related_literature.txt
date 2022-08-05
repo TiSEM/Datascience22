@@ -1,0 +1,186 @@
+Bibliography
+Uniform Crime Reporting Program Data: County-Level Detailed Arrest and
+Offense Data, United States, 2016
+
+This bibliography includes published and unpublished works that are related 
+to ICPSR study 37059. It includes works that are based on primary
+or secondary analysis of the data, or which describe or critique those
+data or the collection methodology. 
+
+If you publish a work or know of other works that are based on these data,
+please send the complete citation and name of the ICPSR study used to:
+icpsr-biblio-notify@umich.edu 
+
+
+1. Albright, David L.; Fletcher, Kari L.; Thomas, Kate H.; McDaniel, Justin
+T.; Laha-Walsh, Kirsten; Null, Dawn; Vohra, Sameer, "Behavioural health
+outcomes in veterans compared to nonveterans by rural and urban areas in
+Alabama, 2015-2018." Health and Social Care in the Community. in press
+2021,. DOI: 10.1111/hsc.13392
+
+2. Chalfin, Aaron; Goncalves, Felipe, "Collars for Dollars: Arrests and
+Police Overtime." Sep 2020..
+Full text PDF: https://static1.squarespace.com/static/58d9a8d71e5b6c72dc2a90f1/t/5f5fa0d061dd714f3b2a3039/1600102613938/collars4dollars_9_2020.pdf
+
+3. Circo, Giovanni; Scranton, Alexander, "Did Connecticut's 'raise the age'
+increase motor vehicle thefts?." Criminal Justice Policy Review. in press
+2020,. DOI: 10.1177/0887403419892045
+Full text PDF: https://static1.squarespace.com/static/58d9a8d71e5b6c72dc2a90f1/t/5f5fa0d061dd714f3b2a3039/1600102613938/collars4dollars_9_2020.pdf
+
+4. Costanza, S.E.; Helms, Ronald; Kilburn, John C., Jr.; Bowers, David A.,
+Jr., "Criminal threat, immigrant/minority threat, and political ideology:
+An examination of handgun permits across Texas counties." Social Science
+Quarterly. Jul 2020, 101, (4), 1442 - 1460. DOI: 10.1111/ssqu.12800
+Full text PDF: https://static1.squarespace.com/static/58d9a8d71e5b6c72dc2a90f1/t/5f5fa0d061dd714f3b2a3039/1600102613938/collars4dollars_9_2020.pdf
+
+5. Daley, Sean; Kajendrakumar, Bakthameera; Nandhakumar, Samyuktha;
+Personett, Christine; Sholes, Michael; Thapa, Swornim; Xue, Chen; Korvink,
+Michael; Gunn, Laura H., "County-level socioeconomic status adjustment of
+acute myocardial infarction mortality hospital performance measure in the
+U.S.." Healthcare. 2021, 9, (1424),. DOI: 10.3390/healthcare9111424
+Full text PDF: https://static1.squarespace.com/static/58d9a8d71e5b6c72dc2a90f1/t/5f5fa0d061dd714f3b2a3039/1600102613938/collars4dollars_9_2020.pdf
+
+6. Dhingra, Reva; Kilborn, Mitchell; Woldemikael, Olivia, "Immigration
+policies and access to the justice system: The effect of enforcement
+escalations on undocumented immigrants and their communities." Political
+Behavior. in press 2021,. DOI: 10.1007/s11109-020-09663-w
+Full text PDF: https://static1.squarespace.com/static/58d9a8d71e5b6c72dc2a90f1/t/5f5fa0d061dd714f3b2a3039/1600102613938/collars4dollars_9_2020.pdf
+
+7. Dunphy, Christopher C., "Three Essays on the Economics of Firearms."
+Dissertation, Ohio State University, 2019.
+Abstract: http://rave.ohiolink.edu/etdc/view?acc_num=osu1560245504730798
+
+8. Fay, Robert E., "Constructing and Disseminating Small Area Estimates
+from the National Crime Victimization Survey, 2007-2018." Final Report for
+Award #2017-BJ-CX-K030. NCJ 300603, Westat, Apr 2021.
+Abstract: https://www.ojp.gov/ncjrs/virtual-library/abstracts/constructing-and-disseminating-small-area-estimates-national-crime
+Full text PDF: https://www.ojp.gov/pdffiles1/bjs/grants/300603.pdf
+This report was produced by Westat, Inc., for BJS under award number 2017-
+BJ-CX-K030. It builds upon a previously released report that combined data
+from the National Crime Victimization Survey (NCVS) with small area
+estimation methods and data from the FBI’s Uniform Crime Reports to produce
+estimates for states for 1999–2013 and for some large counties and sub-
+state areas for 1998–2012. This report features state-level estimates for
+an expanded set of characteristics that have been produced as 3-year
+averages for 2007–2018. The report includes displays of the state estimates
+accompanied by a more simplified description for the interested public. The
+majority of the report focuses on the software and its underlying methods.
+
+9. Fone, Zachary, "Essays in Applied Microeconomics: Policy Interventions
+and Spillovers to Crime." Dissertation, University of New Hampshire, 2020.
+Abstract: https://www.ojp.gov/ncjrs/virtual-library/abstracts/constructing-and-disseminating-small-area-estimates-national-crime
+Full text PDF: https://www.ojp.gov/pdffiles1/bjs/grants/300603.pdf
+This report was produced by Westat, Inc., for BJS under award number 2017-
+BJ-CX-K030. It builds upon a previously released report that combined data
+from the National Crime Victimization Survey (NCVS) with small area
+estimation methods and data from the FBI’s Uniform Crime Reports to produce
+estimates for states for 1999–2013 and for some large counties and sub-
+state areas for 1998–2012. This report features state-level estimates for
+an expanded set of characteristics that have been produced as 3-year
+averages for 2007–2018. The report includes displays of the state estimates
+accompanied by a more simplified description for the interested public. The
+majority of the report focuses on the software and its underlying methods.
+
+10. Gaston, Shytierra; Fernandes, April D.; DeShay, Rashaan A., "A
+macrolevel study of police killings at the intersection of race, ethnicity,
+and gender." Crime and Delinquency. in press 2021,. DOI:
+10.1177/0011128720977444
+Abstract: https://www.ojp.gov/ncjrs/virtual-library/abstracts/constructing-and-disseminating-small-area-estimates-national-crime
+Full text PDF: https://www.ojp.gov/pdffiles1/bjs/grants/300603.pdf
+This report was produced by Westat, Inc., for BJS under award number 2017-
+BJ-CX-K030. It builds upon a previously released report that combined data
+from the National Crime Victimization Survey (NCVS) with small area
+estimation methods and data from the FBI’s Uniform Crime Reports to produce
+estimates for states for 1999–2013 and for some large counties and sub-
+state areas for 1998–2012. This report features state-level estimates for
+an expanded set of characteristics that have been produced as 3-year
+averages for 2007–2018. The report includes displays of the state estimates
+accompanied by a more simplified description for the interested public. The
+majority of the report focuses on the software and its underlying methods.
+
+11. He, Qiwei; Barkowski, Scott, "The effect of health insurance on crime:
+Evidence from the Affordable Care Act Medicaid expansion." Health
+Economics. Mar 2020, 29, (3), 261 - 277. DOI: 10.1002/hec.3977
+Abstract: https://www.ojp.gov/ncjrs/virtual-library/abstracts/constructing-and-disseminating-small-area-estimates-national-crime
+Full text PDF: https://www.ojp.gov/pdffiles1/bjs/grants/300603.pdf
+This report was produced by Westat, Inc., for BJS under award number 2017-
+BJ-CX-K030. It builds upon a previously released report that combined data
+from the National Crime Victimization Survey (NCVS) with small area
+estimation methods and data from the FBI’s Uniform Crime Reports to produce
+estimates for states for 1999–2013 and for some large counties and sub-
+state areas for 1998–2012. This report features state-level estimates for
+an expanded set of characteristics that have been produced as 3-year
+averages for 2007–2018. The report includes displays of the state estimates
+accompanied by a more simplified description for the interested public. The
+majority of the report focuses on the software and its underlying methods.
+
+12. Hu, Hui; Zheng, Yi; Wen, Xiaoxiao; Smith, Sabrina S.; Nizomov, Javlon;
+Fishe, Jennifer; Hogan, William R.; Shenkman, Elizabeth A.; Bian, Jiang,
+"An external exposome-wide association study of COVID-19 mortality in the
+United States." Science of the Total Environment. May 2021, 768,. DOI:
+10.1016/j.scitotenv.2020.144832
+Abstract: https://pubmed.ncbi.nlm.nih.gov/33450687/
+
+13. Kajeepeta, Sandhya; Mauro, Pia M.; Keyes, Katherine M.; El-Sayed,
+Abdulrahman M.; Rutherford, Caroline G.; Prins, Seth J., "Association
+between county jail incarceration and cause-specific county mortality in
+the USA, 1987-2017: A retrospective, longitudinal study." The Lancet Public
+Health. Apr 2021, 6, (4), e240 - e248. DOI: 10.1016/S2468-2667(20)30283-8
+Abstract: https://pubmed.ncbi.nlm.nih.gov/33450687/
+
+14. Kim, Jung K.; Koh, Yumi, "Pretrial justice reform and property crime:
+Evidence from New Jersey." Applied Economics. 2021, 53, (6), 663 - 675.
+DOI: 10.1080/00036846.2020.1808579
+Abstract: https://pubmed.ncbi.nlm.nih.gov/33450687/
+
+15. Nasir, Murtaza; Summerfield, Nichalin S.; Oztekin, Asil; Knight,
+Margaret; Ackerson, Leland K.; Carreiro, Stephanie, "Machine learning-based
+outcome prediction and novel hypotheses generation for substance use
+disorder treatment." Journal of the American Medical Informatics
+Association. Jun 2021, 28, (6), 1216 - 1224. DOI: 10.1093/jamia/ocaa350
+Abstract: https://pubmed.ncbi.nlm.nih.gov/33450687/
+
+16. Seoela, Bonang, "Unemployment and crime dynamics: A time series
+approach." Presented at the Graduate Student Showcase, Boise State
+University, Boise, ID, Apr 10, 2019.
+Abstract: https://scholarworks.boisestate.edu/gss_2019/20/
+
+17. Snow, Kylie; Patzer, Rachel; Patel, Shivani; Harding, Jessica, "County-
+level characteristics associated with variation in end-stage kidney disease
+mortality in the United States, 2010-2018." Kidney360. in press 2022,. DOI:
+10.34067/KID.0007872021
+Abstract: https://scholarworks.boisestate.edu/gss_2019/20/
+
+18. U.S. News and World Report, "Healthiest Communities: How They Were
+Ranked." Updated Sep 22, 2020, Accessed Jun 3, 2020.
+Full text: https://www.usnews.com/news/healthiest-communities/articles/methodology
+
+19. Wang, Lingxiao, "Three Essays on Grocery Sales Taxes." University of
+Kentucky, 2021.
+Full text PDF: https://uknowledge.uky.edu/cgi/viewcontent.cgi?article=1103&context=agecon_etds
+
+20. Wang, Lingxiao; Zheng, Yuqing; Buck, Steven; Dong, Diansheng; Kaiser,
+Harry M., "Grocery food taxes and U.S. county obesity and diabetes rates."
+Health Economics Review. in press 2021,. DOI: 10.1186/s13561-021-00306-2
+Full text PDF: https://uknowledge.uky.edu/cgi/viewcontent.cgi?article=1103&context=agecon_etds
+
+21. Wu, Guangzhen; Boateng, Francis D.; Lang, Xiaodong, "The spillover
+effect of recreational marijuana legalization on crime: Evidence from
+neighboring states of Colorado and Washington State." Journal of Drug
+Issues. in press 2020,. DOI: 10.1177/0022042620921359
+Full text PDF: https://uknowledge.uky.edu/cgi/viewcontent.cgi?article=1103&context=agecon_etds
+
+22. Wu, Guangzhen; Wen, Ming; Wilson, Fernando A., "Impact of recreational
+marijuana legalization on crime: Evidence from Oregon." Journal of Criminal
+Justice. Jan-Feb 2021, 72,. DOI: 10.1016/j.jcrimjus.2020.101742
+Full text PDF: https://uknowledge.uky.edu/cgi/viewcontent.cgi?article=1103&context=agecon_etds
+
+23. Yaskewich, David M., "Local prohibitions on marijuana: Factors
+associated with bans on medical and recreational businesses." Contemporary
+Drug Problems. in press 2022,. DOI: 10.1177/00914509221105285
+Full text PDF: https://uknowledge.uky.edu/cgi/viewcontent.cgi?article=1103&context=agecon_etds
+
+24. Zullo, Roland, "Non-market institutions and crime in US counties: Hayek
+v. Polanyi." Review of Social Economy. in press 2019,. DOI:
+10.1080/00346764.2019.1663909
+Full text PDF: https://uknowledge.uky.edu/cgi/viewcontent.cgi?article=1103&context=agecon_etds
